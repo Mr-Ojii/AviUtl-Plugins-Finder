@@ -4,13 +4,13 @@ exeが存在しているディレクトリ以下のフォルダを検索し、
 ``拡張子・プラグイン情報・フルパス``を記載したcsvファイルを作成するプログラム
 
 ## How-To-Build
-### Using MinGW
+#### Using MinGW
 Run ``Build-MinGW.cmd``
 
-### Using Visual Studio
+#### Using Visual Studio
 Run ``Build-VS.cmd`` on ``Visual Studio Developer Command Prompt``
 
-### Other
+## Other
 
 同梱したAviUtlPluginSDKは  
 ``AviUtl Plugin SDK  for ver0.99m  by ＫＥＮくん``  
