@@ -1,0 +1,1 @@
+gcc -O3 -Wall -o main src/main.c
